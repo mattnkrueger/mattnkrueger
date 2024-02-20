@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattnkrueger
-- 👀 I’m interested in software development, and currently interning @FarrPro in Iowa City 
-- 🌱 I’m currently studying Computer Scienece and Engineering at the University of Iowa, College of Engineering
-- 👨‍💻 I’m looking to collaborate on cool projects to make positive contributions and expand my knowledge of coding
+- 👀 I’m interested in software development, and the Internet of Things
+- 🌱 I’m currently studying Computer Scienece and Engineering at the University of Iowa, College of Engineering, and working as a part-time student at John Deere Intelligent Solutions Group as a product engineer.
 - 📫 How to reach me: mail - mnkrueger@uiowa.edu LinkedIn - www.linkedin/in/mattnkrueger 
 
 <!---
