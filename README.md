@@ -12,5 +12,5 @@
 - Business Intelligence: develop interactive dashboards using Python (Plotly Dash) and Tableau
 
 **🐖 Part-Time Student Developer, FarrPro (May 2023 - April 2024)**
-- UI/UX Design: created wireframes using Figma
+- UI/UX Design: designed and created prototype wireframes using Figma
 - Software Development: assisted in front-end development using JavaScript and React
