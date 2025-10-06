@@ -1,4 +1,4 @@
-# Matt Krueger 
+# Matt Krueger
 ### Data Engineering • BI • Software Development • UI/UX Design • IoT • Embedded Systems 
 
 ## Experience
