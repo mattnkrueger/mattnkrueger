@@ -1,5 +1,5 @@
 # Matt Krueger 
-### Data Engineering • BI • IoT • Embedded Systems • UI/UX Design • Software Development
+### Data Engineering • BI • Software Development • UI/UX Design • IoT • Embedded Systems 
 
 ## Experience
 **🎓 University of Iowa, College of Engineering (May 2026)**
