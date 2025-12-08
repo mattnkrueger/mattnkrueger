@@ -1,5 +1,5 @@
 # Matt Krueger
-### Data Engineering • BI • Software Development
+### Data Engineering • Business Intelligence • Software Development
 
 ## Experience
 **🎓 University of Iowa, College of Engineering (May 2026)**
