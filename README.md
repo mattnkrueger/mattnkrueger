@@ -1,12 +1,13 @@
 # Matt Krueger
 ### Data Engineering • Business Intelligence • Software Development
 
-## Experience
+## Education
 **🎓 University of Iowa, College of Engineering (May 2026)**
 - Major: _Computer Science and Engineering_
 - Minor: _Mathematics_
 - Focus Area: _Computer Hardware_
 
+## Experience
 **🚜 Part-Time Product Engineer, John Deere ISG (April 2024 - present)**
 - Data Engineering: _develop data engineering pipelines using Python (PySpark within Databricks)_
 - Business Intelligence: _develop interactive dashboards using Python (Plotly Dash) and Tableau_
