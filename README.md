@@ -3,7 +3,7 @@
 
 ## Education
 **🎓 University of Iowa, College of Engineering (May 2026)**
-- Major: _Computer Science and Engineering_
+- B.S.E: _Computer Science and Engineering_
 - Minor: _Mathematics_
 - Focus Area: _Computer Hardware_
 
