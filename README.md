@@ -2,7 +2,7 @@
 ### Data Engineering • Business Intelligence • Software Development
 
 ## Education
-**🎓 University of Iowa, College of Engineering (May 2026)**
+**🎓 University of Iowa, College of Engineering, 2022-2026**
 - B.S.E: _Computer Science and Engineering_
 - Minor: _Mathematics_
 - Focus Area: _Computer Hardware_
