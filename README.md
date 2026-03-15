@@ -9,8 +9,8 @@
 ## Experience
 
 **⚙️ Service Controls Engineer, TruNorth Automation _2026-present_**
-- n/a 
-- n/a
+- Service: _N/A_
+- Controls Engineering: _N/A_
 
 **🚜 Part-Time Product Engineer, John Deere ISG _2024-2026_**
 - Data Engineering: _develop data engineering pipelines using Python (PySpark within Databricks)_
