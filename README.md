@@ -7,7 +7,7 @@
 - Minor: _Mathematics_
 
 ## Experience
-** Service Controls Engineer, TruNorth Automation _2026-present_**
+**⚙️ Service Controls Engineer, TruNorth Automation _2026-present_**
 - n/a 
 - n/a
 
