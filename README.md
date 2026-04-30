@@ -2,13 +2,23 @@
 ### Aspiring Robotics Engineer | Embedded Systems | IoT | C++ 
 
 ## Education
+
 **🎓 University of Iowa, College of Engineering _2022-2026_**
+
+*Iowa City, Iowa*
 - B.S.E: _Computer Science and Engineering_ (3.64/4.00)
 - Minor: _Mathematics_ (3.61/4.00)
 
+**🎓 Ankeny Centennial High School _2018-2022_**
+
+*Ankeny, Iowa*
+- High School Diploma: 4.3/4.0
+
 ## Experience
-Technical Experience: 3yrs part-time, 0yrs full-time
---
+
+**Technical Experience:**
+- part-time: 3 years (sophomore-senior)
+- full-time: 0 years 
 
 **⚙️ Service Controls Engineer, TruNorth Automation _2026-present_**
 
