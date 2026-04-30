@@ -6,8 +6,8 @@
 **🎓 University of Iowa, College of Engineering _2022-2026_**
 
 *Iowa City, Iowa*
-- B.S.E: _Computer Science and Engineering_ (3.64/4.00)
-- Minor: _Mathematics_ (3.61/4.00)
+- Computer Science and Engineering, B.S.E.: 3.64/4.00
+- Mathematics, Minor: 3.61/4.00
 
 **🎓 Ankeny Centennial High School _2018-2022_**
 
