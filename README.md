@@ -1,10 +1,10 @@
 # Matt Krueger
-### Controls Engineering • IoT • Data Engineering • Business Intelligence 
+### Aspiring Robotics Engineer 
 
 ## Education
 **🎓 University of Iowa, College of Engineering _2022-2026_**
-- B.S.E: _Computer Science and Engineering_
-- Minor: _Mathematics_
+- B.S.E: _Computer Science and Engineering_ (3.64/4.00)
+- Minor: _Mathematics_ (3.61/4.00)
 
 ## Experience
 
