@@ -1,43 +1,11 @@
-# Matt Krueger
-### Aspiring Robotics Engineer | Embedded Systems | IoT | C++ 
+## Matt Krueger
 
-## Education
+Creative engineer who enjoys learning and building systems to improve humanity.
 
-**🎓 University of Iowa, College of Engineering _2022-2026_**
-
-*Iowa City, Iowa*
-- Computer Science and Engineering, B.S.E.: 3.64/4.00
-- Mathematics, Minor: 3.61/4.00
-
-**🎓 Ankeny Centennial High School _2018-2022_**
-
-*Ankeny, Iowa*
-- High School Diploma: 4.3/4.0
-
-## Experience
-
-**Technical Experience:**
-- part-time: 3 years (sophomore-senior)
-- full-time: 0 years 
-
-**⚙️ Service Controls Engineer, TruNorth Automation _2026-present_**
-
-*Minneapolis-St. Paul, Minnesota*
-- Service: _N/A_
-- Controls Engineering: _N/A_
-
---
-
-**🚜 Part-Time Product Engineer, John Deere ISG _2024-2026_**
-
-*Urbandale, Iowa*
-- Data Engineering: _develop data engineering pipelines using Python (PySpark within Databricks)_
-- Business Intelligence: _develop interactive dashboards using Python (Plotly Dash) and Tableau_
-
---
-
-**🐖 Part-Time Student Developer, FarrPro _2023-2024_**
-
-* Iowa City, Iowa*
-- UI/UX Design: _designed and created prototype wireframes using Figma_
-- Software Development: _assisted in front-end development using JavaScript and React_
+**Interests:**
+- Real-Time Cyberphysical Systems
+- Robotics
+- Sensors
+- Human/Computer Interaction
+- 3D Design
+- Web Design
