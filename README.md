@@ -7,8 +7,14 @@ _an engineer who enjoys building visually beautiful and modernly practical syste
 ### Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
 
 ---
+### 💡 **Interests**
+Outside of my profession, I have a broad interest in technology and engineering spanning multiple disciplines. I am nowhere near an professional at any one of these, but I do admire their fields and hope to improve my skills in each along my engineering journey!
+- Robotics, Sensors, and Autonomy
+- CAD Modeling and 3D Printing
+- Web and Graphic Design using Figma
 
-### 💡 **Interests & Self Study**
+
+### 📚 **Self Study**
 While I am getting hands-on experience at TruNorth Automation as a Service Controls Engineer, I am partaking in supplementary learning focused in the following areas: 
 - Industrial Robotics
 - Industrial Control Systems
