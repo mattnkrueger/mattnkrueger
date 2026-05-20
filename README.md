@@ -1,6 +1,6 @@
 ## Matt Krueger
 
-_engineer who enjoys learning and building systems to improve humanity_
+_an engineer who enjoys learning and building systems to improve humanity_
 
 ---
 
