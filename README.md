@@ -1,6 +1,6 @@
 ## Matt Krueger
 
-_an engineer who enjoys building systems to improve humanity_
+_an engineer who enjoys building visually beautiful and modernly practical systems that improve humanity's interaction with technology_
 
 ---
 
