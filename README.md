@@ -2,11 +2,15 @@
 
 _engineer who enjoys learning and building systems to improve humanity_
 
+---
+
 ### 💡 **Current Interests**
 - Robotics
 - Sensors
 - Control Systems
 - C++
+
+---
 
 ### ⚠️ IMPORTANT: Tagging System
 Using a tagging system to organize projects into the following:
