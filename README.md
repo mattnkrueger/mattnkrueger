@@ -1,16 +1,14 @@
 ## Matt Krueger
 
-Creative engineer who enjoys learning and building systems to improve humanity.
+_engineer who enjoys learning and building systems to improve humanity_
 
-**Interests:**
-- Real-Time Cyberphysical Systems
+### 💡 **Current Interests**
 - Robotics
 - Sensors
-- Human/Computer Interaction
-- 3D Design
-- Web Design
+- Control Systems
+- C++
 
-### IMPORTANT: Tagging System
+### ⚠️ IMPORTANT: Tagging System
 Using a tagging system to organize projects into the following:
 1. Agentic Development / No AI Used
 2. University / Personal
