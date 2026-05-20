@@ -9,7 +9,7 @@ While I am getting hands-on experience at TruNorth Automation as a Service Contr
 - Robotics
 - Sensors
 - Control Systems
-- C++
+- C++ for Microcontroller Programming
 
 ---
 
