@@ -11,11 +11,11 @@ While I am getting hands-on experience at TruNorth Automation as a Service Contr
 - Vision and Obstacle DetectionSensors
 - C++ for Microcontroller Programming
 
-Current Readings:
+**Current Readings:**
 - Programming: Principles and Practice Using C++
 - Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers 4th Edition
 
-Current Coursera Courses: 
+**Current Coursera Courses:**
 - Northwestern University: Modern Robotics
 
 ---
