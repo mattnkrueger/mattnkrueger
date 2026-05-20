@@ -13,7 +13,7 @@ _engineer who enjoys learning and building systems to improve humanity_
 ---
 
 ### ⚠️ IMPORTANT: Tagging System
-Using a tagging system to organize projects into the following:
+Using a tagging system to organize repositories into the following categories:
 1. Agentic Development / No AI Used
 2. University / Personal
 3. Tools
