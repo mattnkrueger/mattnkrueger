@@ -10,7 +10,7 @@ Creative engineer who enjoys learning and building systems to improve humanity.
 - 3D Design
 - Web Design
 
-### GitHub Structure
+### IMPORTANT: Tagging System
 Using a tagging system to organize projects into the following:
 1. Agentic Development / No AI Used
 2. University / Personal
