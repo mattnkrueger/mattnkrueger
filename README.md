@@ -7,14 +7,14 @@ _an engineer who enjoys building visually beautiful and modernly practical syste
 ### Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
 
 ---
-### 💡 **Interests**
+## 💡 **Interests**
 Outside of my profession, I have a broad interest in technology and engineering spanning multiple disciplines. I am nowhere near an professional at any one of these, but I do admire their fields and hope to improve my skills in each along my engineering journey!
 - Robotics, Sensors, and Autonomy
 - CAD Modeling and 3D Printing
 - Web and Graphic Design using Figma
 
 
-### 📚 **Self Study**
+## 📚 **Self Study**
 While I am getting hands-on experience at TruNorth Automation as a Service Controls Engineer, I am partaking in supplementary learning focused in the following areas: 
 - Industrial Robotics
 - Industrial Control Systems
@@ -28,15 +28,14 @@ While I am getting hands-on experience at TruNorth Automation as a Service Contr
 **Current Coursera Courses:**
 - Northwestern University: Modern Robotics
 
----
 
-### ⚠️ IMPORTANT: Tagging System
+## ⚠️ IMPORTANT: Tagging System
 Using a tagging system to organize repositories into the following categories:
 1. Agentic Development / No AI Used
 2. University / Personal
 3. Tools
 
----
 
-### ⚠️ IMPORTANT: AI/Agentic Development Transparency
+
+## ⚠️ IMPORTANT: AI/Agentic Development Transparency
 My university class is unique in the sense that we started before LLMs were mainstream, then we learned alongside LLMs, and finally we graduated when LLMs and AI is all the hype. Most course policies at the Univeristy of Iowa between 2022-2026 strongly prohibited AI (which I adhered to), but some strongly permitted and even encouraged the use of LLMs & AI IDEs (which I took advantage of). I understand the importance of handcoding, especially as a junior dev at the start of his journey, but also want to keep up-to-date with industry tooling and learn to orchestrate AI effectively. Moving forward, I will complete both "handcoded" projects and "agentic" projects to show competency in both methods of software development. Tags within root README indicates project goals & tools
