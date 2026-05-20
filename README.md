@@ -4,7 +4,7 @@ _an engineer who enjoys learning and building systems to improve humanity_
 
 ---
 
-### 💡 **Current Interests**
+### 💡 **Interests & Self Study**
 While I am getting hands-on experience at TruNorth Automation as a Service Controls Engineer, I am partaking in supplementary learning focused in the following areas: 
 - Industrial Robotics
 - Industrial Control Systems
