@@ -21,11 +21,12 @@ While I am getting hands-on experience at TruNorth Automation as a Service Contr
 - Industrial Robotics
 - Industrial Control Systems
 - Vision and Obstacle DetectionSensors
-- C++ for Microcontroller Programming
+- C++ & Python for Microcontroller Programming
 
 **Current Readings:**
-- Programming: Principles and Practice Using C++
+- Modern Robotics: Mechanics, Planning, and Control
 - Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers 4th Edition
+- Programming: Principles and Practice Using C++
 
 **Current Coursera Courses:**
 - Northwestern University: Modern Robotics
