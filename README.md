@@ -12,7 +12,7 @@ _an engineer who enjoys building systems that improve humanity's coexistence wit
 Outside of my profession, I have a broad interest in technology and engineering spanning multiple disciplines. I am nowhere near an professional at any one of these, but I do admire their fields and hope to improve my skills in each along my engineering journey!
 - Robotics, Sensors, and Autonomy
 - CAD Modeling and 3D Printing
-- Web and Graphic Design using Figma
+- Home and Industrial Automation
 
 ---
 
