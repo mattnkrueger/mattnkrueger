@@ -8,30 +8,6 @@ _an engineer who enjoys building systems that improve humanity's coexistence wit
 
 ---
 
-### 💡 **Interests**
-- Robotics, Sensors, and Autonomy
-- CAD Modeling and 3D Printing
-- Home and Industrial Automation
-
----
-
-### 📚 **Self Study**
-While I am getting hands-on experience in automation, I am partaking in supplementary learning focused in the following areas: 
-- Industrial Robotics
-- Industrial Control Systems
-- Vision and Obstacle DetectionSensors
-- C++ & Python for Microcontroller Programming
-
-**Current Readings:**
-- Modern Robotics: Mechanics, Planning, and Control
-- Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers 4th Edition
-- Programming: Principles and Practice Using C++
-
-**Current Coursera Courses:**
-- Northwestern University: Modern Robotics
-
----
-
 ### ⚠️ IMPORTANT: Tagging System
 Using a tagging system to organize repositories into the following categories:
 1. Agentic Development / No AI Used
