@@ -1,15 +1,17 @@
 ## Matt Krueger
 
-_an engineer who enjoys building systems that improve humanity's coexistence with technology_
+Matt is a versatile engineer interested in computers, software development, 3D/CAD Modeling, and electronics. Matt is mission oriented and aspires to work on systems that help defend Americans.
 
----
+Currently learning:
+- Computer Vision
+- LiDar
+- Sensor & Track Fusion
 
-### Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
+## Personal Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
+Visit my portfolio to learn more about my upbringing, what interests me, work experience, and education. 
 
----
-
-### ⚠️ IMPORTANT: Tagging System
-Using a tagging system to organize repositories into the following categories:
+## ⚠️ IMPORTANT: Tagging System
+I am employing a tagging system to organize repositories into the following categories:
 1. Agentic Development / No AI Used
 2. University / Personal
-3. Tools
+3. Tools used
