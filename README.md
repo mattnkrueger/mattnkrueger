@@ -1,6 +1,6 @@
 ## Matt Krueger
 
-Matt is a versatile engineer interested in computers, software development, 3D/CAD Modeling, and electronics. Matt is mission oriented and aspires to work on systems that help defend Americans.
+Matt is a versatile engineer interested in computers, software development, 3D/CAD Modeling, and electronics. Matt is aspires to develop systems that help defend Americans.
 
 Currently learning:
 - Computer Vision
