@@ -9,9 +9,3 @@ Currently learning:
 
 ## Personal Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
 Visit my portfolio to learn more about my upbringing, what interests me, work experience, and education. 
-
-## ⚠️ IMPORTANT: Tagging System
-I am employing a tagging system to organize repositories into the following categories:
-1. Agentic Development / No AI Used
-2. University / Personal
-3. Tools used
