@@ -1,8 +1,10 @@
 ## Matt Krueger
 
-Matt is a versatile engineer interested in computers, software development, 3D/CAD Modeling, and electronics. Matt is aspires to develop systems that help defend Americans.
+Matt is a versatile engineer interested in computers, software development, 3D/CAD Modeling, and electronics.
 
 Currently learning:
+- Industrial Automation
+- Controls
 - Computer Vision
 
 ## Personal Portfolio: [mattnkrueger.com](https://mattnkrueger.com)
